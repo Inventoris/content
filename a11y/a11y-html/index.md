@@ -5,7 +5,7 @@ authors:
   - imeugenia
 related:
   - a11y/chto-takoe-a11y
-  - a11y/screenreaders
+   a11y/screenreaders
   - a11y/aria-intro
 tags:
   - article
